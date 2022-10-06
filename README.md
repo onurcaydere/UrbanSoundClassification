@@ -10,3 +10,5 @@ Model oluşturma aşamasında basit bir model oluşturup istediğim bir sonuç y
 ## Training
  Eğitim aşamasında loss değerleri birbirlerinden aşırı faklı yani arasındaki skala çok artmadığını gördüğüm için modeli böyle bırakıyorum ve test verisetiyle değerlendirmelerimi yapıyorum sonuç olarak projeyi burada bitiriyorum.
 
+## Klasörlemeye Ulaşmak için Link :
+https://drive.google.com/drive/folders/1zaMMISISYCmHz95UeB3Ar337l_ntJDGR?usp=sharing
